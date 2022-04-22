@@ -35,13 +35,19 @@ export RABBITMQ_MESSAGECOUNT="10000"
 ```
 
 # 3. Access to onprem.example.com
+```
+$ kubectl apply -f https://github.com/developer-onizuka/hybridCloud/blob/main/onprem-L7/employee2-onprem-mongodb.yaml
+```
+
 Even number of  EmployeeIDs could be found as following:<br><br>
 <img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud4.png" width="640"> <br>
 
 
 
 # 4. Access to azure.example.com
-
+```
+$ kubectl apply -f https://github.com/developer-onizuka/hybridCloud/blob/main/azure-L7/employee2-azure-cosmosdb.yaml
+```
 First, you might see the following error. The reason is an index which needs to be created on the field being sorted. The default indexes can be dropped and custom indexes created.<br>
 
 <img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud2.png" width="640"> <br>
