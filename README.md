@@ -35,7 +35,7 @@ export RABBITMQ_MESSAGECOUNT="10000"
 ```
 
 # 3. Access to onprem.example.com
-Even number of  EmployeeIDs could be found as following:<br>
+Even number of  EmployeeIDs could be found as following:<br><br>
 <img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud4.png" width="640"> <br>
 
 
