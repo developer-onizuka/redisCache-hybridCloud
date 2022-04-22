@@ -50,7 +50,7 @@ First, you might see the following error. The reason is an index which needs to 
 > https://stackoverflow.com/questions/56988743/using-the-sort-cursor-method-without-the-default-indexing-policy-in-azure-cosm/60809868#60809868
 
 <br>
-Let's create the index for EmployeeID on Azure Portal below:<br>
+Let's create the index for EmployeeID on Azure Portal below:<br><br>
 <img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud1.png" width="640"> <br>
 
 <br>
