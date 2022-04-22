@@ -64,6 +64,13 @@ Odd number of  EmployeeIDs could be found as following:<br><br>
     
 <img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud7.png" width="640"> <br>
 
-# 6. Kiali's viewing
+
+# 6. Compare between Read Latencys of Onprem MongoDB
+
+<img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud8.png" width="640"> <br>
+    
+<img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud9.png" width="640"> <br>
+
+# 7. Kiali's viewing
 
 <img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud3.png" width="640"> <br>
