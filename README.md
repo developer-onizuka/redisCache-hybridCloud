@@ -43,7 +43,7 @@ export RABBITMQ_MESSAGECOUNT="10000"
 
 First, you might see the following error. The reason is an index which needs to be created on the field being sorted. The default indexes can be dropped and custom indexes created.<br>
 
-<img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud1.png" width="640"> <br>
+<img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud2.png" width="640"> <br>
 
 
 > https://stackoverflow.com/questions/56988743/using-the-sort-cursor-method-without-the-default-indexing-policy-in-azure-cosm/60809868#60809868
@@ -57,4 +57,4 @@ Let's create the index for EmployeeID on Azure Portal below:<br>
 
 # 5. Kiali's viewing
 
-<img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud2.png" width="640"> <br>
+<img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud1.png" width="640"> <br>
