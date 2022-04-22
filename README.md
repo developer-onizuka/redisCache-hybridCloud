@@ -1,9 +1,8 @@
 # redisCache-hybridCloud
 
 # 1. Deploy the Function of rabbitmq-to-hybridCloud to AzureFunctions on Onprem-Kubernetes
+This App stores Even number of Employees into On Prem MongoDB, but stores Odd number of Employees into Cosmos DB in Azure. <br>
 > https://github.com/developer-onizuka/rabbitMQ_KEDA_Csharp#8-write-rabbitmqs-messages-to-mongodb
-
-This App stores Even number of Employees into On Prem MongoDB, but stores Odd number of Employees into Cosmos DB in Azure.
 ```
 $ https://github.com/developer-onizuka/rabbitMQ_KEDA_Csharp
 $ cd rabbitMQ_KEDA_Csharp/rabbitmq-to-hybridCloud
