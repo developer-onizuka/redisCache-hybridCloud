@@ -41,14 +41,18 @@ export RABBITMQ_MESSAGECOUNT="10000"
 # 4. Access to azure.example.com
 
 First, you might see the following error. The reason is an index which needs to be created on the field being sorted. The default indexes can be dropped and custom indexes created.
-> https://stackoverflow.com/questions/56988743/using-the-sort-cursor-method-without-the-default-indexing-policy-in-azure-cosm/60809868#60809868
 
 <img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud2.png" width="640"> <br>
 
+> https://stackoverflow.com/questions/56988743/using-the-sort-cursor-method-without-the-default-indexing-policy-in-azure-cosm/60809868#60809868
 
-Let's create the index for EmployeeID on Azure Portal below:
+
+Let's create the index for EmployeeID on Azure Portal below:<br>
 <img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud1.png" width="640"> <br>
 
 <img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud4.png" width="640"> <br>
+
+
+# 5. Kiali's viewing
 <img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud5.png" width="640"> <br>
 
