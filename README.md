@@ -54,7 +54,7 @@ Let's create the index for EmployeeID on Azure Portal below:<br><br>
 <img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud1.png" width="640"> <br>
 
 <br>
-Odd number of  EmployeeIDs could be found as following:<br>
+Odd number of  EmployeeIDs could be found as following:<br><br>
 <img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud5.png" width="640"> <br>
 
 
