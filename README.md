@@ -50,11 +50,11 @@ First, you might see the following error. The reason is an index which needs to 
 
 
 Let's create the index for EmployeeID on Azure Portal below:<br>
-<img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud3.png" width="640"> <br>
+<img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud1.png" width="640"> <br>
 
 <img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud5.png" width="640"> <br>
 
 
 # 5. Kiali's viewing
 
-<img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud1.png" width="640"> <br>
+<img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud3.png" width="640"> <br>
