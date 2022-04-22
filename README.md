@@ -2,6 +2,8 @@
 
 # 1. Deploy the Function of rabbitmq-to-hybridCloud to AzureFunctions on Onprem-Kubernetes
 > https://github.com/developer-onizuka/rabbitMQ_KEDA_Csharp#8-write-rabbitmqs-messages-to-mongodb
+
+This App stores Even number of Employees into On Prem MongoDB, but stores Odd number of Employees into Cosmos DB in Azure.
 ```
 $ https://github.com/developer-onizuka/rabbitMQ_KEDA_Csharp
 $ cd rabbitMQ_KEDA_Csharp/rabbitmq-to-hybridCloud
@@ -34,7 +36,7 @@ export RABBITMQ_MESSAGECOUNT="10000"
 ```
 
 # 3. Access to onprem.example.com
-
+Even number of  EmployeeIDs could be found as following:<br>
 <img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud4.png" width="640"> <br>
 
 
@@ -48,10 +50,12 @@ First, you might see the following error. The reason is an index which needs to 
 
 > https://stackoverflow.com/questions/56988743/using-the-sort-cursor-method-without-the-default-indexing-policy-in-azure-cosm/60809868#60809868
 
-
+<br>
 Let's create the index for EmployeeID on Azure Portal below:<br>
 <img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud1.png" width="640"> <br>
 
+<br>
+Odd number of  EmployeeIDs could be found as following:<br>
 <img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud5.png" width="640"> <br>
 
 
