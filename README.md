@@ -58,7 +58,7 @@ Odd number of  EmployeeIDs could be found as following:<br><br>
 <img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud5.png" width="640"> <br>
 
 
-# 5. Read Latency
+# 5. Compare with Read Latencys each other
 
 <img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud6.png" width="640"> <br>
     
