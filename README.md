@@ -58,6 +58,14 @@ Odd number of  EmployeeIDs could be found as following:<br><br>
 <img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud5.png" width="640"> <br>
 
 
-# 5. Kiali's viewing
+# 5. Read Latency
+
+# RedisCache Miss and Data is from MongoDB
+<img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud6.png" width="640"> <br>
+    
+# RedisCache Hit
+<img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud7.png" width="640"> <br>
+
+# 6. Kiali's viewing
 
 <img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud3.png" width="640"> <br>
