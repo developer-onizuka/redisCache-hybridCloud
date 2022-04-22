@@ -41,7 +41,8 @@ export RABBITMQ_MESSAGECOUNT="10000"
 
 # 4. Access to azure.example.com
 
-First, you might see the following error. The reason is an index which needs to be created on the field being sorted. The default indexes can be dropped and custom indexes created.
+First, you might see the following error. The reason is an index which needs to be created on the field being sorted. The default indexes can be dropped and custom indexes created.<br>
+
 <img src="https://github.com/developer-onizuka/redisCache-hybridCloud/blob/main/redisCache-hybridCloud5.png" width="640"> <br>
 
 
